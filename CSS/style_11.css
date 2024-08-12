@@ -1,0 +1,26 @@
+body {
+   font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+p{
+   background-color: rgb(239, 135, 135); 
+}
+
+.primer-div{
+   color: blue;
+   font-size: 36px;
+}
+
+.segundo-p{
+   font-size: 24px ;
+}
+
+#segundo-div{
+   background-color: rgb(183, 228, 183);
+   font-size: 24px;
+   font-weight: bold;
+}
+
+body {
+   font-family: Verdana, "DejaVu Sans", sans-serif;
+}
