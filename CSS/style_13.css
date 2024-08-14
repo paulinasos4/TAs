@@ -1,10 +1,13 @@
 
 .frutas {
     width: 300px; 
-    height: auto; 
+    height: auto;     
 }
-
 .verduras {
     width: 200px; 
     height: 400px; 
+}
+img {
+    display: inline-block; /* Alinea las imágenes horizontalmente */
+    margin-right: 10px; /* Espacio entre las imágenes */
 }
